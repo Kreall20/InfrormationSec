@@ -378,5 +378,10 @@ namespace Lab2
             FoundedKeyDg.Rows.Clear();
             FoundedKeyDg.Columns.Clear();
         }
+
+        private void ChooseDecodeFilebutton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
